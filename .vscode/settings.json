@@ -1,0 +1,12 @@
+{
+    "terminal.integrated.profiles.osx": {
+        "PythonVenv": {
+            "path": "zsh",
+            "args": [
+                "-c",
+                "source .venv/bin/activate && exec zsh"
+            ]
+        }
+    },
+    "terminal.integrated.defaultProfile.osx": "PythonVenv"
+}

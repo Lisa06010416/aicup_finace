@@ -1,0 +1,11 @@
+
+opencv-python
+pdf2image
+Pillow
+numpy
+cython
+pycocotools
+paddlepaddle
+paddleocr
+paddlex
+openai
