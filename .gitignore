@@ -3,7 +3,7 @@ pdf_md/
 競賽資料集/
 
 .DS_Store
-
+.vscode/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
